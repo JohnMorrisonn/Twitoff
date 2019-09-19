@@ -1,1 +1,1 @@
-web: gunicorn run -t 120
+web: gunicorn run:server
